@@ -1,0 +1,29 @@
+body{
+	background-color: #272727;
+	color: #fff;
+	font-family: 'Verdana';
+    padding: 12rem;
+	
+	h1{
+		padding-top: 2rem;
+	}
+}
+
+form{
+	label{
+		text-align: center;
+		
+	}
+	input{
+		padding: 8px;
+		border-radius: 2px;
+		border: none;
+	}
+	button{
+		background-color: #1f1e1e;
+		color: #fff;
+		padding: 8px;
+		border: 1px solid #000;
+		width-min: 44px;
+	}
+}
